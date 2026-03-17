@@ -1,1 +1,3 @@
-conflict in feature-conflict
+
+conflict in master branch only
+
