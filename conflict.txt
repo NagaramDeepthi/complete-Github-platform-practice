@@ -1,1 +1,1 @@
-conflict in master
+conflict in feature-conflict
