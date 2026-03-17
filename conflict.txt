@@ -1,1 +1,1 @@
-conflict in master
+conflict in master branch only
